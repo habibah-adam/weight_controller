@@ -1,5 +1,5 @@
 import unittest
-import add from main
+import add from src/main
 
 
 def test_add(self):
