@@ -16,5 +16,15 @@ Once profile is created, appropriate daily calorie intake target will be set. Th
 Following features are intended in the future releases:
 - Target on losing weight
 - Calculate calorie for an uploaded picture(food)
-- Burning calorie by activity tracker1        vm,
+- Burning calorie by activity tracker
+
+## Installation Guides
+
+- First clone down the repo
+- Create a new virtual environment and activate it
+- install all the packages necessary which is listed in the requirements file 
+- At last, run the app 
+
+
+
 
