@@ -29,7 +29,7 @@ Following features are intended in the future releases:
 
 ### Landing Page
 
-<img src="./docs/wireframes/Landing_page_2.png" width="225"/> <img src="./docs/wireframes/Landing_page.png" width="625" height="425"/>
+<img src="./docs/wireframes/Landing_page_2.png" width="225"/> <img src="./docs/wireframes/Landing_page.png" width="525" height="425"/>
 
 
 
