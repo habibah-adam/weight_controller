@@ -25,6 +25,46 @@ Following features are intended in the future releases:
 - install all the packages necessary which is listed in the requirements file 
 - At last, run the app 
 
+## Wireframes
+
+### Landing Page
+
+<img src="./docs/wireframes/Landing_page_2.png" width="225"/> <img src="./docs/wireframes/Landing_page.png" width="625" height="425"/>
+
+
+
+### Signup Page
+
+<img src="./docs/wireframes/Signup_2.png" width="225"/> <img src="./docs/wireframes/Signup.png" width="625" height="425"/>
+
+
+
+### Login Page
+
+<img src="./docs/wireframes/Login_2.png" width="225"/> <img src="./docs/wireframes/Login.png" width="625" height="425"/>
+
+
+
+### Dashboard Page
+
+<img src="./docs/wireframes/Dash_board_2.png" width="225"/> <img src="./docs/wireframes/Dash_board.png" width="625" height="425"/>
+
+
+
+### Profile Page
+
+<img src="./docs/wireframes/Profile_2.png" width="225"/> <img src="./docs/wireframes/Profile.png" width="625" height="425"/>
+
+
+
+### Blog Page
+
+<img src="./docs/wireframes/Recipes_2.png" width="225"/> <img src="./docs/wireframes/Recipes.png" width="625" height="425"/>
+
+
+
+
+
 
 
 
