@@ -62,6 +62,15 @@ Following features are intended in the future releases:
 <img src="./docs/wireframes/Recipes_2.png" width="200"/> <img src="./docs/wireframes/Recipes.png" width="500" height="400" style="margin-left: 35px;"/>
 
 
+## Database schema
+
+- A user can have zero or multiple blogs, but a blog belongs to only one user.
+- A user can set only one goal weight.
+- a user can have at least one weight history and a weight history belongs to only one user.
+
+
+![](docs/DB_schema.png)
+
 
 
 
